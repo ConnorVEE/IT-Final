@@ -34,6 +34,15 @@ header {
     text-align: center;
 }
 
+.techy {
+    padding: 10px;
+}
+
+.techy p {
+    color: red;
+    font-weight: bold;
+}
+
 h2 {
     padding-bottom: 10px;
 }
